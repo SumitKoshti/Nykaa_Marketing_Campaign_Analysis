@@ -10,6 +10,6 @@ Key Objectives
 
 Summary Report :
 
-![See Dashboard](Summary Report.jpg)
+![See Dashboard](Summary_Report.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNTJmM2ZmYWEtNWI3ZS00YmRiLWI1M2QtYzI4M2MzOWYwN2RkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
