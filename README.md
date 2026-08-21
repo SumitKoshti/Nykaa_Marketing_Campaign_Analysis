@@ -22,7 +22,7 @@ Campaign Performance Report :
 
 
 🛠️ Tools used
--🔹 Business Understanding
+🔹 Business Understanding
    1. Define the Business Problem
    2. Define Project Objectives
    3. Identify Key Business Questions
